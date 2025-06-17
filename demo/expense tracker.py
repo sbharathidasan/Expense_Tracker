@@ -9,7 +9,7 @@ def BalanceAdd_enquiry(Bal,val):
     data.append({"id":id,"name":name,"transaction":{
         "income":val,
         "balance":Bal,
-        "date":datetime.datetime,
+        "date":str(datetime.datetime.now()),
         "note":note
     }})
     return data
@@ -18,7 +18,7 @@ def Expense_enquiry(Bal,expense):
     note=input("enter the note")
     data.append({"id":id,"name":name,"transaction":{
             "expense":expense,"balance":Bal,
-            "date":datetime.datetime.now,
+            "date":str(datetime.datetime.now()),
             "note":note
         }})
     return data
