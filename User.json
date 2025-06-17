@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 0,
+            "balance": 0,
+            "date": "2025-06-17 19:16:57.643609",
+            "note": "none"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 123232,
+            "balance": 123232,
+            "date": "2025-06-17 19:44:05.458264",
+            "note": "earned day and night"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 23232,
+            "balance": 100000,
+            "date": "2025-06-17 19:44:40.202780",
+            "note": "thanda selavu"
+        }
+    }
+]
