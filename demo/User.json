@@ -1,0 +1,332 @@
+[
+    {
+        "id": 0,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 3000,
+            "balance": 103000,
+            "date": "2025-05-01 09:00:00",
+            "note": "freelance work"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1500,
+            "balance": 101500,
+            "date": "2025-05-02 13:00:00",
+            "note": "groceries"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 250,
+            "balance": 101250,
+            "date": "2025-05-03 08:30:00",
+            "note": "tea and snacks"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 5000,
+            "balance": 106250,
+            "date": "2025-05-04 16:15:00",
+            "note": "part-time job"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 800,
+            "balance": 105450,
+            "date": "2025-05-05 19:00:00",
+            "note": "travel to home"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 300,
+            "balance": 105150,
+            "date": "2025-05-06 11:45:00",
+            "note": "lunch"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 4000,
+            "balance": 109150,
+            "date": "2025-05-07 10:20:00",
+            "note": "online work payout"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1200,
+            "balance": 107950,
+            "date": "2025-05-08 14:00:00",
+            "note": "book purchase"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 500,
+            "balance": 107450,
+            "date": "2025-05-09 09:30:00",
+            "note": "printer ink"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 2500,
+            "balance": 109950,
+            "date": "2025-05-10 18:00:00",
+            "note": "gift from uncle"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1000,
+            "balance": 108950,
+            "date": "2025-05-11 13:00:00",
+            "note": "mobile recharge"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 600,
+            "balance": 108350,
+            "date": "2025-05-12 17:15:00",
+            "note": "food delivery"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 3500,
+            "balance": 111850,
+            "date": "2025-05-13 12:00:00",
+            "note": "project commission"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 700,
+            "balance": 111150,
+            "date": "2025-05-14 08:00:00",
+            "note": "movie with friends"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 300,
+            "balance": 110850,
+            "date": "2025-05-15 18:30:00",
+            "note": "snacks"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 2000,
+            "balance": 112850,
+            "date": "2025-05-16 10:10:00",
+            "note": "mentor bonus"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1500,
+            "balance": 111350,
+            "date": "2025-05-17 14:00:00",
+            "note": "hostel fee"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 3200,
+            "balance": 114550,
+            "date": "2025-05-18 09:30:00",
+            "note": "internship pay"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 650,
+            "balance": 113900,
+            "date": "2025-05-19 11:30:00",
+            "note": "laundry and toiletries"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1800,
+            "balance": 112100,
+            "date": "2025-05-20 19:45:00",
+            "note": "mess advance"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 1000,
+            "balance": 113100,
+            "date": "2025-05-21 15:00:00",
+            "note": "referral reward"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 900,
+            "balance": 112200,
+            "date": "2025-05-22 10:00:00",
+            "note": "weekend snacks"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 4000,
+            "balance": 116200,
+            "date": "2025-05-23 16:00:00",
+            "note": "online client payout"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 2000,
+            "balance": 114200,
+            "date": "2025-05-24 20:00:00",
+            "note": "bought headphones"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 750,
+            "balance": 113450,
+            "date": "2025-05-25 12:15:00",
+            "note": "stationery kit"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 1500,
+            "balance": 114950,
+            "date": "2025-05-26 09:30:00",
+            "note": "academic prize"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 400,
+            "balance": 114550,
+            "date": "2025-05-27 08:45:00",
+            "note": "tea and snacks"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 500,
+            "balance": 115050,
+            "date": "2025-05-28 10:00:00",
+            "note": "sold used books"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 1300,
+            "balance": 113750,
+            "date": "2025-05-29 13:00:00",
+            "note": "celebration with friends"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 2000,
+            "balance": 111750,
+            "date": "2025-05-30 18:00:00",
+            "note": "May end treat"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "income": 123456,
+            "balance": 235206,
+            "date": "2025-06-20 19:52:06.432981",
+            "note": " sold course"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 135206,
+            "balance": 100000,
+            "date": "2025-06-20 19:55:47.541407",
+            "note": "fun"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Bharathidasan S",
+        "transaction": {
+            "expense": 750,
+            "balance": 99250,
+            "date": "2025-06-20 19:56:26.469459",
+            "note": "treat"
+        }
+    }
+]

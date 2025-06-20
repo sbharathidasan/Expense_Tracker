@@ -64,3 +64,16 @@ note:"reason"
 {
 }}
 """
+def dashBoard(data):
+    print("this month total expense")
+    total_expense=sum(i['transaction']['expense'] for i in data if 'expense' in i['transaction'])
+    print(total_expense)
+    print("this month income:")
+    total_income=sum(i['transaction']['income'] for i in data if 'income' in i['transaction'])
+    print(total_income)
+    if(total_income>total_expense):
+        print("this month profit:",total_income-total_expense)
+    else:
+        print("Not a good month:",total_income-total_expense)
+        
+dashBoard(data)
